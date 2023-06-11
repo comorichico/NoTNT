@@ -1,0 +1,4 @@
+name: NoTNT
+version: '${project.version}'
+main: com.comorichico.notnt.NoTNT
+api-version: '1.20'
